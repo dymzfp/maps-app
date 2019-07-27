@@ -1,4 +1,4 @@
-# <p align='center'>simpleChat-with-react-native-and-firebase</p>
+# <p align='center'>simple maps and chat with react-native and firebase</p>
 
 <br>
 <br>
