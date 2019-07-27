@@ -23,13 +23,10 @@ Create a simple chat application by using the Firebase database and using maps t
 * visual studio code(text editor)
 
 ## how to run this application
-* git clone https://github.com/rionmingarfin/simpleChat-with-react-native-and-firebase.git
-* open text editor
-* open terminal and run npm install
-* react-native run-android
-
-### note
-apk demo [simpleChat](https://drive.google.com/file/d/1oRWkkI1AuGyv_yobu0NHv83QR99NnRzG/view?usp=sharing)
+* `git clone https://github.com/dymzfp/maps-app.git`
+* `cd maps-app`
+* run `npm install`
+* `react-native run-android`
 
 ## screnshot application
 <p align='center'>
